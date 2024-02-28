@@ -1,4 +1,4 @@
-# h
+# inner-html 
 
 generate HTML from javascript array structures
 
