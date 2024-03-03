@@ -4,7 +4,7 @@
   "homepage": "https://github.com/samped/load",
   "repository": {
     "type": "git",
-    "url": "git://github.com/samped/load"
+    "url": "https://github.com/samped/load"
   },
   "dependencies": {
     "cssesc": "^3.0.0",
@@ -17,6 +17,6 @@
   "scripts": {
     "test": "tape test/*.js"
   },
-  "author": "",
+  "author": "samped",
   "license": "MIT"
 }
